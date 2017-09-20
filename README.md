@@ -6,5 +6,5 @@ The solution is sought using K- nearest neighbour, Support Vector Machine, Princ
 
 The best result of 99.6% accuracy was achieved using CNN 
 
-The depository consists of Python Code used in the task and a report describin the task, methodology and results.
+The depository consists of Python Code used in the task and report describing the task, methodology and results.
 
