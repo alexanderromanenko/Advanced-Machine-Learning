@@ -5,3 +5,6 @@ The task is to build an algorithm capable of successfully recognising and classi
 The solution is sought using K- nearest neighbour, Support Vector Machine, Principal Component Analysis and Convolutional Neural Networks.
 
 The best result of 99.6% accuracy was achieved using CNN 
+
+The depository consists of Python Code used in the task and a report describin the task, methodology and results.
+
